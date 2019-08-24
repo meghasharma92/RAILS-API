@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content_rating: MyString
+  recommend_rating: MyString
+  title: MyString
+  average_rating: MyString
+  user: one
+  book: one
+
+two:
+  content_rating: MyString
+  recommend_rating: MyString
+  title: MyString
+  average_rating: MyString
+  user: two
+  book: two
